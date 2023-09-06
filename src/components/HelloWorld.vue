@@ -32,7 +32,7 @@ export default {
           console.log("Sending JSON...");
           console.log(dataToSend);
 
-          const response = await fetch('https://euaut2oy0jfcle-8000.proxy.runpod.net/v1/chat', {
+          const response = await fetch('https://c4zuk85jighr74-8000.proxy.runpod.net/v1/chat', {
             method: 'POST',
             mode: 'no-cors',
             headers: {
